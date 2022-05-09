@@ -1,2 +1,3 @@
 # hello-world
 Començant amb Git/GitHub
+Amb ganes d'entendre com funciona...
